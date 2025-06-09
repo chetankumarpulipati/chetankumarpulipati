@@ -11,7 +11,7 @@
 <!-- - 🔭 I’m currently working on **[Project/Technology]** -->
 <!-- - 🌱 I’m currently learning **[Learning Focus, e.g., Next.js, DevOps]** -->
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Machine Learning, Android, Web**
+- 💬 Ask me about **Machine Learning, Data Science, Android, Web**
 - 📫 How to reach me: **chetankumarpulipati2991@gmail.com**
 - ⚡ Fun fact: **I'm convinced that computers understand sarcasm, they just choose to ignore it most of the time.**
 
