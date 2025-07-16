@@ -2,20 +2,21 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer;Tech+Enthusiast;Lifelong+Learner;Open+for+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Open+for+Work;Tech+Enthusiast;Lifelong+Learner;Passionate+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me :
-<!-- - 🔭 I’m currently working on **[Project/Technology]** -->
-<!-- - 🌱 I’m currently learning **[Learning Focus, e.g., Next.js, DevOps]** -->
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Machine Learning, Data Science, Android, Web**
-- 📫 How to reach me: **chetankumarpulipati2991@gmail.com**
-- ⚡ Fun fact: **I'm convinced that computers understand sarcasm, they just choose to ignore it most of the time.**
+
+- 🚀 Actively seeking **internships and job opportunities** in Software Development
+- 👯 Passionate about collaborating on **Open Source Projects** and innovative tech solutions
+- 💬 Ask me about **AI/ML, Data Science or Full-Stack Web Development**
+- 📫 Reach out: **chetankumarpulipati2991@gmail.com**
+- ⚡ Fun fact: **I’m convinced computers understand sarcasm—they just pretend not to.**
 
 ---
+
 
 ## 🛠️ My Tech Stack
 
