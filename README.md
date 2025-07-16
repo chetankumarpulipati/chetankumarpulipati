@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer;Tech+Enthusiast;Lifelong+Learner;Open+for+Work" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,5 +62,15 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
+
+---
+
+### 🚀 Hosted Projects
+
+Here are some of the projects I've built and deployed:
+
+- 🌟 [Quizify](https://quizify.free.nf/)
+- 🌤️ [WeatherWise](https://weatherwise.iblogger.org/)
+- ✅ [TaskMaster](https://taskmasterweb.infy.uk/)
 
 ---
