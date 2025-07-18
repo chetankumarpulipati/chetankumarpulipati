@@ -65,13 +65,3 @@
 </p>
 
 ---
-
-### 🚀 Hosted Projects
-
-Here are some of the projects I've built and deployed:
-
-- 🌟 [Quizify](https://quizify.free.nf/)
-- 🌤️ [WeatherWise](https://weatherwise.iblogger.org/)
-- ✅ [TaskMaster](https://taskmasterweb.infy.uk/)
-
----
