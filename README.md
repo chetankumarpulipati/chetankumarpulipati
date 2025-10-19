@@ -12,7 +12,7 @@
 - 🚀 Actively seeking **internships and job opportunities** in Software Development
 - 👯 Passionate about collaborating on **Open Source Projects** and innovative tech solutions
 - 💬 Ask me about **AI/ML, Data Science or Full-Stack Web Development**
-- 📫 Reach out: **chetankumarpulipati4@gmail.com**
+- 📫 Reach out: **chetankumarpulipati4@gmail.com** or **chetankumarpulipati2991@gmail.com**
 - ⚡ Fun fact: **I’m convinced computers understand sarcasm—they just pretend not to.**
 
 ---
